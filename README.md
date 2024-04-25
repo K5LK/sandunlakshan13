@@ -6,12 +6,6 @@
 
 <h2 align="center">Hi 👋! My name is I'm Sandun Lakshan</h2>
 
-###
-
-<p align="center">Passionate Cyber Security Researcher 🛡️</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandunlakshan13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandunlakshan13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -69,3 +63,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
 </div>
+###
+
+<p align="center">Passionate Cyber Security Researcher 🛡️</p>
+
+###
