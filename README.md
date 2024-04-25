@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="150" src="https://openseauserdata.com/files/441048e3f0c106f8fd75c6c2e3a61caf.gif"  />
+<img align="center" height="150" src="https://openseauserdata.com/files/441048e3f0c106f8fd75c6c2e3a61caf.gif"  />
 
 ###
 
