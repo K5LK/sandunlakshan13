@@ -69,11 +69,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sandunlakshan13/sandunlakshan13/output/snake.svg" alt="Snake animation" />
-
-###
